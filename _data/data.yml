@@ -7,19 +7,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Juan Pedro Ramirez Meza # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: juperameza@hotmail.com
+  phone:  3141796100
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: www.linkedin.com/in/juan-pedro-ramirez-meza-122674233/
+  github: github.com/juperameza
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@juperameza'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,13 +27,12 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: 79/100 # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
+    
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -43,25 +42,34 @@ sidebar:
     - item: Team Work
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Approachability
       link: # dejar en blanco
+      
+    - item: Patience
+      link: # dejar en blanco
+      
+    - item: Problem solving
+      link: # dejar en blanco      
+      
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
-
+    I am a software engineer student that's passionate about programming ever since highschool. Currently going trhough my 4th semester and coursing the brightcoders bootcamp. I love to build projects on my own but rarely publish them this allows me to gain more knowledge about a programming language
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Programmer analyst
+    university: Universidad de colima
+    time: 2017 august - 2020 july
     details: |
+      Preparatory degree for programming analyst
+          -C++
+          -C#
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+  - degree: Software engineer
+    university: Universidad de colima
+    time: 2020 august - current
     details: |
       Unsupervised deep learning for automatic behavior analysis
 
@@ -69,48 +77,25 @@ educationcomplete:
         - Representaion learning
         - Automatic Behavior Analysis
 
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Developer
+    time: 2019 - 2020
+    company: Universidad de colima
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Developed an app about lsm which is the sign language for mexican people
+      it's pretty basic it was just a school project 
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Software engineer-developer
+    time: 2021 - 2022
+    company: Lumina
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Was the developer of a prototype app about a panic button implementing agile development
+      and helping with the role of the product owner. Currently learning kotlin on free time to
+      make it real 
+        -Functional app created on a prototype tool
+        -Implemented google api for maps
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -122,23 +107,23 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
+    - name: C++
+      level: 40%
+
+    - name: C#
       level: 20%
 
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
+    - name: JavaScript
       level: 60%
 
-    - name: Caffe
+    - name: Ruby
+      level: 20%
+      
+    - name: HTML
       level: 80%
-
-    - name: Matlab
-      level: 100%
-
-    - name: C/C++
-      level: 40%
+      
+    - name: CSS
+      level: 80%
 
 # NO MODIFICAR
 footer: >
