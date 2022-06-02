@@ -113,21 +113,6 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: C++
-      level: 40%
-
-    - name: C#
-      level: 20%
-
-    - name: Git
-      level: 80%
-
-    - name: JavaScript
-      level: 60%
-
-    - name: Ruby
-      level: 20%
-
     - name: Ruby on Rails
       level: 100%
 
@@ -139,6 +124,21 @@ skills:
 
     - name: PostgreSql
       level: 80%
+      
+    - name: Git
+      level: 80%
+      
+    - name: JavaScript
+      level: 60%
+
+    - name: Ruby
+      level: 60%
+      
+    - name: C++
+      level: 40%
+
+    - name: C#
+      level: 20%
 
 # NO MODIFICAR
 footer: >
