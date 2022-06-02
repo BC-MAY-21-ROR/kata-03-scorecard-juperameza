@@ -19,7 +19,7 @@ sidebar:
   github: juperameza
   gitlab:
   bitbucket:
-  twitter: 
+  twitter: @juperameza
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -49,7 +49,10 @@ sidebar:
       link: # dejar en blanco
       
     - item: Problem solving
-      link: # dejar en blanco      
+      link: # dejar en blanco
+      
+    - item: Self learning
+      link: # dejar en blanco 
       
 
 # Registra aquí un resumen de tu perfil
@@ -87,7 +90,7 @@ experiences:
       Developed an app about lsm which is the sign language for mexican people
       it's pretty basic it was just a school project 
 
-  - role: Software engineer-developer
+   - role: Software engineer-developer
     time: 2021 - 2022
     company: Lumina
     details: |
@@ -96,6 +99,15 @@ experiences:
       make it real 
         -Functional app created on a prototype tool
         -Implemented google api for maps
+        
+   - role: Ruby on Rails Web Developer
+    time: 2022- 2022
+    company: Bright Coders Academy
+    details: |
+      I was part of a trainee program in which, together with a team of developers, we received 
+      training on Ruby / Ruby on Rails, Git and Github, Agile methodology and teamwork. We solved 
+      different challenges and developed a web project together.       
+
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -112,6 +124,9 @@ skills:
 
     - name: C#
       level: 20%
+      
+    - name: Git
+      level: 80%
 
     - name: JavaScript
       level: 60%
@@ -119,10 +134,16 @@ skills:
     - name: Ruby
       level: 20%
       
+    - name: Ruby on Rails
+      level: 100%
+      
     - name: HTML
       level: 80%
       
     - name: CSS
+      level: 80%
+      
+    - name: PostgreSql
       level: 80%
 
 # NO MODIFICAR
